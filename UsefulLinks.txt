@@ -1,0 +1,9 @@
+UX Reads:
+
+https://www.bol.com/nl/p/don-t-make-me-think-revisited/9200000018192369/?country=BE&Referrer=ADVNLGOO002008M-G-33288390484-S-558865006512-9200000018192369&gclid=CjwKCAjwspHaBRBFEiwA0eM3kaLFRn8hzAWUGq9JQN3rjHodkv7zMTO5BIGKHhZvPm5ubPa03AkrnRoCv8oQAvD_BwE&gclsrc=aw.ds
+ 
+https://medium.com/level-up-web/a-dummies-guide-to-ux-basics-159378970d60
+ 
+https://www.amazon.com/Smashing-Design-Foundations-Designing-Experiences/dp/0470666854/ref=sr_1_1?s=books&ie=UTF8&qid=1419267625&sr=1-1&keywords=Smashing+UX+Design
+
+https://developers.google.com/web/fundamentals/design-and-ux/ux-basics/
